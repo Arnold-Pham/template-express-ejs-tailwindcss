@@ -1,0 +1,10 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Express
+.env
+
+# Tailwind CSS
+/public/stylesheets/style.css
